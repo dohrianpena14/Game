@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Publish output
+publish/
+
+# Test results
+TestResults/
+
+# Visual Studio cache
+*.cache
+*.dbmdl
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Generated files
+Generated_Code/
+
+# Backup files
+Backup/
+*.bak
+
+# Entity Framework migrations snapshots (opcional)
+*.Designer.cs
